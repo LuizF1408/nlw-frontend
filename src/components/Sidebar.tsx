@@ -1,5 +1,5 @@
-import React from 'react'
-import {useHistory} from 'react-router-dom'
+import React from 'react';
+import {useHistory} from 'react-router-dom';
 import {FiArrowLeft} from 'react-icons/fi';
 
 import '../styles/components/sidebar.css'
@@ -10,6 +10,7 @@ import mapMarkerImg from '../images/map-local.svg'
 export default function Sidebar(){
 
     const {goBack} = useHistory();
+    return(
     <aside className='app-sidebar'>
         <img src={mapMarkerImg} alt="Happy" />
 
@@ -19,6 +20,6 @@ export default function Sidebar(){
           </button>
         </footer>
       </aside>
-
+)
 
 }
