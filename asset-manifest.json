@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nlw-frontend/static/css/main.356c1fda.chunk.css",
+    "main.js": "/nlw-frontend/static/js/main.a04e0d98.chunk.js",
+    "main.js.map": "/nlw-frontend/static/js/main.a04e0d98.chunk.js.map",
+    "runtime-main.js": "/nlw-frontend/static/js/runtime-main.33158140.js",
+    "runtime-main.js.map": "/nlw-frontend/static/js/runtime-main.33158140.js.map",
+    "static/css/2.bcddf60d.chunk.css": "/nlw-frontend/static/css/2.bcddf60d.chunk.css",
+    "static/js/2.0d6e4af1.chunk.js": "/nlw-frontend/static/js/2.0d6e4af1.chunk.js",
+    "static/js/2.0d6e4af1.chunk.js.map": "/nlw-frontend/static/js/2.0d6e4af1.chunk.js.map",
+    "index.html": "/nlw-frontend/index.html",
+    "precache-manifest.302a27cb04dc77cb9ff13782d89832e4.js": "/nlw-frontend/precache-manifest.302a27cb04dc77cb9ff13782d89832e4.js",
+    "service-worker.js": "/nlw-frontend/service-worker.js",
+    "static/css/2.bcddf60d.chunk.css.map": "/nlw-frontend/static/css/2.bcddf60d.chunk.css.map",
+    "static/css/main.356c1fda.chunk.css.map": "/nlw-frontend/static/css/main.356c1fda.chunk.css.map",
+    "static/js/2.0d6e4af1.chunk.js.LICENSE.txt": "/nlw-frontend/static/js/2.0d6e4af1.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/nlw-frontend/static/media/Ilustra02.91c8d1af.svg",
+    "static/media/Logo.svg": "/nlw-frontend/static/media/Logo.1653c647.svg",
+    "static/media/map-local.svg": "/nlw-frontend/static/media/map-local.658b8302.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33158140.js",
+    "static/css/2.bcddf60d.chunk.css",
+    "static/js/2.0d6e4af1.chunk.js",
+    "static/css/main.356c1fda.chunk.css",
+    "static/js/main.a04e0d98.chunk.js"
+  ]
+}
