@@ -10,7 +10,7 @@ const server = app.listen(app.get('port'), function() {
     console.log('listening on port ', server.address().port);
   });
 
-app.listen(port);
+
 
 const baseDir = `${__dirname}/build/`
 app.use(express.static(`${baseDir}`))
