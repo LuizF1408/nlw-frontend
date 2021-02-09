@@ -21,13 +21,13 @@
   },
   "homepage": "hhttps://luizf1408.github.io/nlw-frontend/",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build ",
     "deploy": "gh-pages -d build",
-    "heroku":"node server.js"
+   
   },
   "eslintConfig": {
     "extends": "react-app"
